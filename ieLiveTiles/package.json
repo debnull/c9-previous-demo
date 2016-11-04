@@ -1,0 +1,16 @@
+{
+  "name": "ie-live-tiles",
+  "version": "0.0.1",
+  "description": "Internet Explorer 11 LiveTiles Example",
+  "main": "server.js",
+  "private": true,
+  "dependencies": {
+    "express": "3.4.8"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Philipp Widdra <philipp.widdra@gmail.com>",
+  "license": "MIT"
+}
